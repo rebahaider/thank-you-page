@@ -10,10 +10,11 @@
 }
 .logo{
     padding-top: 30px;
+    max-width: 100%;
 }
 .content{
     padding: 150px;
-    max-width: 300px;
+    max-width: 18.75rem;
     margin: auto;
 }
 .title{
